@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Helvetin (AKA Cashless)
+- 👀 I’m a computer science student from Europe, currently studying in the United States
+- 🌱 I'm experienced in the following areas:
+- Java
+- Python
+- JS
+- MySQL
+- MongoDB
