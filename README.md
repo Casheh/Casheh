@@ -3,8 +3,7 @@
 
 I'm an 18 year old statistics student currently studying in the US. Below are some of my areas of expertise:
 
-## Java
-* Bukkit API
-* Swing
-* JDA (Java Discord API)
-* Forge
+## Contact me!
+* Discord: Cashless#9999
+* Email: casheh@casheh.net
+* Twitter: @casheeikinen
