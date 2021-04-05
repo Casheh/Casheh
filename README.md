@@ -8,14 +8,3 @@ I'm an 18 year old statistics student currently studying in the US. Below are so
 * Swing
 * JDA (Java Discord API)
 * Forge
-
-## JavaScript
-* Disord.js
-* React Native
-* React.js
-* Mongoose
-* Express.js
-
-## Python
- * OpenCV
- * TensorFlow
