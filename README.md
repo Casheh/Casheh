@@ -1,7 +1,7 @@
 # Hi, I'm Cash! :wave: 
 
 
-I'm an 18 year old student currently studying in the US. Below are some of my areas of expertise:
+I'm a developer with experience in the following areas below:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=casheh&show_icons=true)
 
 * BukkitAPI
