@@ -2,7 +2,6 @@
 
 
 I'm a developer with experience in the following areas below:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=casheh&show_icons=true)
 
 * BukkitAPI
 * Swing
@@ -10,6 +9,8 @@ I'm a developer with experience in the following areas below:
 * JDA
 * Discord.js
 * OpenCV
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=casheh&show_icons=true)
 
 ## Contact me!
 * Discord: Cashless#9999
