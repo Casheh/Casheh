@@ -11,9 +11,11 @@ I'm a developer with experience in the following areas:
 
 ## JavaScript
 * Discord.js
+* React Native
 
 ## Python
 * OpenCV
+* PyStats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=casheh&show_icons=true)
 
