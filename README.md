@@ -17,8 +17,6 @@ I'm a developer with experience in the following areas:
 * OpenCV
 * PyStats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=casheh&show_icons=true)
-
 ## Contact me:
 ```
 Discord: Cashless#9999
