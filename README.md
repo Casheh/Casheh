@@ -1,7 +1,7 @@
 # Hi, I'm Cash :wave: 
 
 
-I'm a developer with experience in the following areas:
+I'm a (ex) developer with experience in the following areas:
 
 ## Java
 * BukkitAPI
