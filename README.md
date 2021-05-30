@@ -1,7 +1,7 @@
 # Hi, I'm Cash :wave: 
 
 
-I'm a C# developer knowledge in Java and JS
+I'm a C# developer with knowledge in Java and JS
 
 ## Contact me:
 ```
