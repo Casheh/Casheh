@@ -1,7 +1,7 @@
 # Hi, I'm Cash :wave: 
 
 
-I'm a C# developer with knowledge in Java and JS
+All my repos are inactive and are only kept here for storage purposes.
 
 ## Contact me:
 ```
